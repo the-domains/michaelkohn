@@ -1,0 +1,28 @@
+name: michaelkohn
+favicon: null
+layout_spectrum: 0.3122339404653758
+typography_spectrum: 0.4822089225053787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.47845355444587767
+  lightness: 0.6563486086670309
+  saturation: 0.4625952478963882
+  rhythmicContrast: 0.00691987294703722
+purpose: []
